@@ -21,6 +21,7 @@ B-EFFECT - the beginning of an EFFECT entity
 I-EFFECT - inside an EFFECT entity
 
 RESULT
+
 We have trained the model on Train data and then tested the train model on the TEST data.
 The trained model correctly identifies a Drug with precision of 0.9399555226093402 and identifies Effects with precision of 0.7682458386683739
 The overall accuracy of the model is 0.9585490352242696
